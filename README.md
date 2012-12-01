@@ -1,0 +1,4 @@
+SamsungSmartAppNodeServer
+=========================
+
+Node server sample
